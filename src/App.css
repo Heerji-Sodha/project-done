@@ -1,0 +1,83 @@
+.maindiv {
+  background-color: #f7f7f7;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body.fontLoaded {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#app {
+  background-color: #f8f8f8;
+  min-height: 100%;
+  min-width: 100%;
+}
+
+.bod {
+  padding: 0 20px 0 20px;
+}
+
+p, label {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.5em;
+}
+
+hr {
+  width: 200px;
+  text-align:center !important;
+  margin: 0 auto !important;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+header * {
+  display: inline;
+} 
+
+
+
+/* wallet style */
+.wallet{
+  width: 28%;
+  /* margin-left: 50px; */
+  height: 180px;
+  border-radius: 20px;
+  background-color: #818181;
+  margin: auto;
+  margin-top: 20px;
+}
+@media only screen and (max-width: 600px) {
+  .wallet {
+    width: 85%;
+  }
+}
+.delete{
+  margin-left: 36%;
+  margin-top: 20px;
+}
+@media only screen and (max-width: 600px) {
+  .delete {
+    margin-left: 7%;
+  margin-bottom: -22px;
+  }
+}
+.Add{
+  width: 28%;
+  height: 50px;
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+  border-radius: 20px;
+  background-color: #818181;
+  margin: auto;
+  margin-top: 30px;
+  margin-left: 36%;
+}
+@media only screen and (max-width: 600px) {
+  .Add {
+    width: 85%;
+    margin-left: 7%;
+  }
+}

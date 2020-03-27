@@ -1,0 +1,13 @@
+.css-fawxas.from-user > .webchat__bubble__content, [data-css-fawxas].from-user > .webchat__bubble__content {
+    border-radius: 10px !important;
+    background-color: rgb(207, 201, 201) !important;
+    font-weight: bold !important;
+}
+
+element.style{
+    border-radius: 20px !important;
+    background-color: darkgray !important;
+}
+
+
+

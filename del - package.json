@@ -1,0 +1,39 @@
+{
+  "name": "shopr-lists",
+  "version": "0.1.0",
+  "homepage": ".",
+  "private": true,
+  "dependencies": {
+    "@azure/cosmos": "^3.5.2",
+    "@material-ui/icons": "^4.5.1",
+    "antd": "^3.23.6",
+    "botframework-webchat": "^4.5.2",
+    "cryptr": "^6.0.1",
+    "firebase": "^5.7.0",
+    "mdbreact": "^4.23.1",
+    "react": "^16.10.2",
+    "react-credit-card-input": "^1.1.5",
+    "react-credit-cards": "^0.8.0",
+    "react-dom": "^16.10.2",
+    "react-payment-inputs": "^1.0.6",
+    "react-router": "^3.2.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "styled-components": "^4.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

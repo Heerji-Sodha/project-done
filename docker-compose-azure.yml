@@ -1,0 +1,13 @@
+version: '3'
+services:
+  web:
+    image: shopar.azurecr.io/shopr-list-web:110
+    links:           
+    - api
+    ports:         
+    - "3000:3000"
+
+  api:
+    image: shopar.azurecr.io/shopr-list-api:110
+    ports: 
+      - "3001:3001"

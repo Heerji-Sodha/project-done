@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "205631464972",
+    "firebase_url": "https://experiment-e22fb.firebaseio.com",
+    "project_id": "experiment-e22fb",
+    "storage_bucket": "experiment-e22fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205631464972:android:63df0587617d8f8d",
+        "android_client_info": {
+          "package_name": "elijah.grocerylist.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205631464972-k37grnbrqhidggor5mbfcnhpd4v4mnq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhniQwPubnARb_cbVi7vrWCfpOSV1Deco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
